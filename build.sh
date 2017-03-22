@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-docker build -t scratch .
+docker build -t scratch-gui .
